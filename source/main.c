@@ -4,7 +4,6 @@
 
 int nthread_run;
 char notify_buf[1024];
-char ini_file_path[256];
 int  xfer_pct;
 long xfer_cnt;
 char *cfile;
